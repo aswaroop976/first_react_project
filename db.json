@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "car",
+      "price": "50000",
+      "type": "sports",
+      "brand": "mercedes",
+      "id": 1
+    },
+    {
+      "name": "car ",
+      "price": "25000",
+      "type": "sports",
+      "brand": "whatever",
+      "id": 4
+    }
+  ]
+}
